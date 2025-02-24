@@ -10,7 +10,7 @@ import SignIn from "./SignIn";
 const SignUp = () => {
   
   return (
-    <div className="flex  ">
+    <div className="flex">
       <div className="flex-1 p-12">
         <h2 className="text-xl font-bold text-black-600 pb-4">Sign Up</h2>
         <p>
